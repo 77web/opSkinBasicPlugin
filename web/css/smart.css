@@ -1,0 +1,11 @@
+#HeaderContainer, #ContentsContainer, #LayoutA, #LayoutB, #LayoutC
+{
+  width: 100%;
+  
+}
+
+#LayoutA #Left, #LayoutB #Left, #LayoutA #Center
+{
+  float: none;
+  width: 100%;
+}
